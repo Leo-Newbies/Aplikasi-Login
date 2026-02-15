@@ -1,6 +1,7 @@
 # Aplikasi-Login
-Sebuah Aplikasi Bersifat Login
+Sebuah aplikasi dengan fitur login.
 
-1. Masuk Menggunakan Email dan Password
-2. Memvalidasi Masuk
-3. Masuk Dengan Login
+Alur Fitur Login:
+1. Memasukkan email dan password
+2. Memvalidasi masukan.
+3. Menampilkan halaman home.
